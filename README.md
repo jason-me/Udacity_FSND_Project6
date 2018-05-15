@@ -1,17 +1,20 @@
 Udacity_FSND_Project6 - Linux Server Configuration -- Charitable Goods Inventory Catalog by Jason M. Hester
 
 ==============================
-Summary:
+
+Summary
 
     Baseline installation of a Linux distribution on a virtual machine prepared to host a web application, that includes installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
 
-IP Address and URL:
+IP Address and URL
+
     IP: http://18.222.93.215/
     Hostname: ec2-18-222-93-215.us-east-2.compute.amazonaws.com
     Password for Grader: "GRADER"
     SSH: Port 2200
 
-Software Installed:
+Software Installed
+
     Apache2
     GIT
     mod_wsgi
@@ -25,7 +28,8 @@ Software Installed:
     requests
     PostgreSQL
 
-Configurations:
+Configurations
+
     cd .ssh
     -----------------------
 
