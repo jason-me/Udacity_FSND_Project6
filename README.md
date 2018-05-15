@@ -223,7 +223,8 @@ Configurations
     python database_init.py
     python __init__.py
 
-Third Party Resources:
+Third Party Resources
+
     https://github.com/mulligan121/Udacity-Linux-Configuration
     https://github.com/iliketomatoes/linux_server_configuration
     https://github.com/vectors36/Udacity_FullStack_Linux
